@@ -1,0 +1,9 @@
+.cor{
+    text-align: center;
+    background-color: antiquewhite;
+}
+.co{
+    display:inline-block;
+    width: 20%;
+    background: red;
+}
